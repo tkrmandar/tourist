@@ -1,0 +1,112 @@
+*{
+    text-align: center;
+    
+}
+
+
+/* navbar */
+#navbar{
+    padding: 3% 7% 1%;
+    background-color:antiquewhite;
+}
+
+.navbar-custom{
+    padding: 2% 10%;
+}
+
+.company-logo{
+    height: 40px;
+    width: 80px;
+}
+
+/* top */
+
+
+#top{
+    padding: 1% 15% 7%;
+    background-color:antiquewhite;
+    font-family: 'Montserrat', sans-serif;
+}
+.front-page-heading{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+    line-height: 60px;
+}
+
+.front-page-text{
+    padding-top: 50px;
+    text-align:left;
+}
+
+.cloud{
+    position:relative;
+    right:450px;    
+    height: 40px;
+    width: 60px;
+}
+.ship{
+    position:relative;
+    top:80px;
+    right:90px;
+    height: 50px;
+    width: 70px;
+    transform: rotate(-20deg);
+}
+.plane{
+    position:relative;
+    left:500px;
+    height: 50px;
+    width: 70px;;
+}
+.train{
+    position:relative;
+    top: 450px;
+    left:300px;
+    height: 50px;
+    width: 70px;
+    transform: rotate(20deg);
+}
+
+/* mid */
+
+.discover{
+    padding:0% 5% 7%;
+}
+
+.mid-heading{
+    font-family: 'Montserrat', sans-serif;
+    padding:3% 15%;
+}
+
+.explore-btn{
+    position: relative;
+    top:230px;
+    border-radius: 50%;
+}
+
+/* mid second-part */
+
+.slide{
+    background-color: antiquewhite;
+}
+.testimonial-image{
+    width: 10%;
+    border-radius: 50%;
+    margin:20px;
+  }
+  .carousel-item{
+    padding: 7% 15%;
+  }
+
+  .control-button{
+    background-color: red;
+    border-radius: 50%;
+  }
+  
+
+  /* footer */
+  
+#footer{
+    padding: 50px;
+    text-align :center;
+  }
